@@ -1,0 +1,14 @@
+{
+  "name": "LoginFormTest",
+  "version": "0.0.1",
+  "description": "Testing frontend techniques/technologies with a login form page",
+  "main": "index.js",
+  "author": "João Danilo Zucolotto",
+  "license": "GNU GPL",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
