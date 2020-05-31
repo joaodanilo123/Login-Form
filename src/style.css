@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+.ipt:focus {
+    @apply outline-none;
+    @apply shadow-outline;
+}
+
+@tailwind utilities;
+
